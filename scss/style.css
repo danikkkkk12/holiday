@@ -1,0 +1,13 @@
+
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 283px;
+  margin: 0 auto;
+  outline: 1px solid red;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+}
+.container{
+  width: 283px;
+  margin: 0 auto;
+  outline: 1px solid red;
+}
+body{
+  padding: 0;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+a{
+  color: inherit;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+.flex{
+  display: flex;
+}
